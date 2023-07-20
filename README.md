@@ -12,5 +12,8 @@ The Global Terrorism Database (GTD) is an open-source database including informa
 - As a security/defense analyst, try to find out the hot zone of terrorism.
 - What all security issues and insights you can derive by EDA?
 
+#### Dataset: 
+https://bit.ly/2TK5Xn5
+
 #### Tableau Link:
 https://public.tableau.com/app/profile/archana.kokate/viz/LGMVIP-DataScience-Task2-EDAonTerrorism/Dashboard1
