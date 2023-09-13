@@ -21,4 +21,4 @@ https://public.tableau.com/app/profile/archana.kokate/viz/LGMVIP-DataScience-Tas
 #### Dashboard
 
 
-![Dashboard Photo](https://github.com/Archanakokate/LGMVIP-DataScience-Task-2-Exploratory-Data-Analysis-Terrorism/assets/115995897/d02d852e-6c8a-45d0-aa25-745f971c902b)
+![Dashboard](https://github.com/Archanakokate/Exploratory_Data_Analysis-Terrorism-using-Tableau/assets/115995897/5d871433-0af5-4be2-a303-1e3f7efd1820)
