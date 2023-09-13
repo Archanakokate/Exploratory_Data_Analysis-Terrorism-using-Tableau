@@ -1,4 +1,4 @@
-# LetsGrowMore Internship - DataScience
+## LetsGrowMore Internship Project - DataScience
 ## Task-2
 ## Exploratory Data Analysis-Terrorism
 
@@ -17,3 +17,8 @@ https://bit.ly/2TK5Xn5
 
 #### Tableau Link:
 https://public.tableau.com/app/profile/archana.kokate/viz/LGMVIP-DataScience-Task2-EDAonTerrorism/Dashboard1
+
+#### Dashboard
+
+
+
