@@ -1,6 +1,6 @@
-## LetsGrowMore Internship Project - DataScience
-## Task-2
-## Exploratory Data Analysis-Terrorism
+### LetsGrowMore Internship Project - DataScience
+### Task-2
+## Exploratory Data Analysis - Terrorism using Tableau
 
 Using Tableau, conducted an in-depth analysis of terrorism incidents around the world, aiming to gain insights into the patterns, trends and key factors associated with these events.
 
@@ -21,4 +21,4 @@ https://public.tableau.com/app/profile/archana.kokate/viz/LGMVIP-DataScience-Tas
 #### Dashboard
 
 
-
+![Dashboard Photo](https://github.com/Archanakokate/LGMVIP-DataScience-Task-2-Exploratory-Data-Analysis-Terrorism/assets/115995897/d02d852e-6c8a-45d0-aa25-745f971c902b)
