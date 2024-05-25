@@ -1,5 +1,4 @@
-### LetsGrowMore Internship Project - DataScience
-### Task-2
+
 ## Exploratory Data Analysis - Terrorism using Tableau
 
 Using Tableau, conducted an in-depth analysis of terrorism incidents around the world, aiming to gain insights into the patterns, trends and key factors associated with these events.
